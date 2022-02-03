@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/NevilJD.github.io/static/css/main.75079df1.css",
+    "main.js": "/NevilJD.github.io/static/js/main.46c71c52.js",
+    "static/media/logo.svg": "/NevilJD.github.io/static/media/logo.b2e5a01e505f739f1484b881277d5186.svg",
+    "index.html": "/NevilJD.github.io/index.html",
+    "main.75079df1.css.map": "/NevilJD.github.io/static/css/main.75079df1.css.map",
+    "main.46c71c52.js.map": "/NevilJD.github.io/static/js/main.46c71c52.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75079df1.css",
+    "static/js/main.46c71c52.js"
+  ]
+}
